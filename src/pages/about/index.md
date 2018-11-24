@@ -1,4 +1,5 @@
 ---
+path: /about
 title: About page title here
 intro: About page info here
 team:
