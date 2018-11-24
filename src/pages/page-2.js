@@ -7,7 +7,7 @@ const SecondPage = () => (
   <Layout>
     <h1>Hi from the second page</h1>
     <p>Welcome to page 2</p>
-    <form name="test-form" method="POST" data-netlify="true">
+    <form name="test-form" method="POST" action="#" data-netlify="true">
       <label>
         Name:
       </label>
