@@ -12,6 +12,7 @@ const SecondPage = () => (
         Name:
       </label>
       <input name="name" type="text" />
+      <button type="submit">Send</button>
     </form>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
